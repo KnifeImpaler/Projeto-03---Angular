@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+        "id":1,
+        "name":"Caixa Papelão nº 01 - 150x180x280mm",
+        "cod": 20025,
+        "un": "Unid"
+        },
+        {
+        "id":2,
+        "name":"Caixa Papelão nº 02 - 355x295x250mm",
+        "cod": 20049,
+        "un": "Unid"
+        },
+        {
+        "id":3,
+        "name":"Caixa Papelão nº 03 - 360x280x180mm",
+        "cod": 20027,
+        "un": "Unid"
+        },
+        {
+        "id":4,
+        "name":"Caixa Papelão nº 04 - 340x240x240mm",
+        "cod": 20090,
+        "un": "Unid"
+        }
+    ]
+}
